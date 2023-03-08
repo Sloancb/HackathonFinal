@@ -3,8 +3,11 @@ This is the final upload of the files for RevolutionUC 2023
 
 The following code was developed in under 24 hours.
 
-Please create an project in unity and then import our files into the project.
+To effectively use this project, please download Unity and create a 2D base project.
+Afterwards, replace the Assests folder with the one inside the repo.
 
-You will also require the texture pack, Text mesh pro to format the files correctly
+To format the text within the game, please download TextMesh pro for Unity.
 
 Enjoy!
+
+If you have any questions, feel free to reach out. 
